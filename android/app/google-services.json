@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:482856935751:android:ac56cd79a5837f704c2c62",
+        "mobilesdk_app_id": "1:482856935751:android:852e18c8aec9457e4c2c62",
         "android_client_info": {
           "package_name": "com.liismaiil.liisma1"
         }
@@ -30,6 +30,13 @@
             {
               "client_id": "482856935751-530o2pamu4q57hrc0lsh15hnp50p9djc.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "482856935751-9nlh169pebo4bmcme3mmmfafuku0oi58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liisma1.RunnerTests"
+              }
             }
           ]
         }
